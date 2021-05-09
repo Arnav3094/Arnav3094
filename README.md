@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arnav3094
-- 👀 I’m interested in ... iosAppDelopment, androidAppDevelopment, learning
-- 🌱 I’m currently learning ... python, swift, java, androidAppDevelopment
+- 👀 I’m interested in iosAppDelopment, androidAppDevelopment, learning
+- 🌱 I’m currently learning python, swift, java, androidAppDevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: arnav3094pvt@gmail.com
 
