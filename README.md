@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Arnav3094
-- 👀 I’m interested in androidAppDevelopment, iOSAppDelopment, learning
-- 🌱 I’m currently learning androidAppDevelopment, java, python, swift.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile development, machine learning, and learning new things
+- 🌱 I’m currently learning iOS dev
+- 💞️ I’m looking to collaborate on any projects withing my interest areas, or allied topics.
 - 📫 How to reach me:
-    email: arnav3094pvt@gmail.com
+    1. [Email](arnav3094pvt@gmail.com)
+    2. [LinkedIn](www.linkedin.com/in/arnav-mangla-/)
 
 <!---
 Arnav3094/Arnav3094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
