@@ -17,9 +17,11 @@
 
 <h3 align="left">Stats:</h3>
 
-![My GitHub stats](https://github-readme-stats-arnav-mangla.vercel.app/api?username=Arnav3094&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats-arnav-mangla.vercel.app/api?username=Arnav3094&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats-arnav-mangla.vercel.app/api/top-langs/?username=Arnav3094&layout=compact&theme=transparent)
+<!-- ![Top Languages](https://github-readme-stats-arnav-mangla.vercel.app/api/top-langs/?username=Arnav3094&layout=compact&theme=transparent) -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav3094&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Arnav3094&theme=dark)
 
