@@ -17,7 +17,7 @@
 
 <h3 align="left">Stats:</h3>
 
-![My GitHub stats](https://github-readme-stats-arnav-mangla.vercel.app/api?username=Arnav3094&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats-arnav-mangla.vercel.app/api?username=Arnav3094&show_icons=true&hide_border=false&theme=dark&hide_border=false)
 
 <!-- ![Top Languages](https://github-readme-stats-arnav-mangla.vercel.app/api/top-langs/?username=Arnav3094&layout=compact&theme=transparent) -->
 
