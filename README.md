@@ -3,9 +3,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnav3094&label=Profile%20views&color=0e75b6&style=flat" alt="arnav3094" />
 </p>
-
 <p align="center">
-  📫 How to reach me: <strong>arnav3094pvt@gmail.com</strong>
+  📫 How to reach me:
+  <a href="mailto:arnav3094pvt@gmail.com"><strong>arnav3094pvt@gmail.com</strong></a>
 </p>
 
 ---
