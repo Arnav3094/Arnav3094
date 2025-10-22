@@ -1,13 +1,27 @@
 <h1 align="center">Hi 👋, I'm Arnav Mangla</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav3094&label=Profile%20views&color=0e75b6&style=flat" alt="arnav3094" /> </p>
 
-- 📫 How to reach me **arnav3094pvt@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnav3094&label=Profile%20views&color=0e75b6&style=flat" alt="arnav3094" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arnav-mangla-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-mangla-" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14756732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14756732" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mangla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mangla" height="30" width="40" /></a>
+<p align="center">
+  📫 How to reach me: <strong>arnav3094pvt@gmail.com</strong>
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with me:</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/arnav-mangla-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/14756732" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://codeforces.com/profile/mangla" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
